@@ -6,10 +6,11 @@ public class Dummy_class {
 		// TODO Auto-generated method stub
 		int a=12;
 		if(a%2==0) {
-		System.out.println("this is even no. : " +a);
+		System.out.println(a+" is even number");
 		}else {
-			System.out.println("this is a odd no. : "+a);
+			System.out.println(a+" is odd number");
 		}
+		
 	}
 
 }
